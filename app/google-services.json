@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136627064282",
+    "project_id": "golugg-8cc6f",
+    "storage_bucket": "golugg-8cc6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136627064282:android:8340dcefb91dc7f56c84e3",
+        "android_client_info": {
+          "package_name": "com.example.golugg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136627064282-1obae1hiclk03tb2ftfa0vh6uj84lfk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3U3A8o-oxemRtsQsO04Uyb1AlXSlN-jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136627064282-1obae1hiclk03tb2ftfa0vh6uj84lfk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

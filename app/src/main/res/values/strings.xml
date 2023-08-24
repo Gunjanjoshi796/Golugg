@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Golugg</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_closed">Close Navigation Drawer</string>
+    <string name="otp_string">Please enter the 6 digit code sent to you at %1$s your OTP is %2$s</string>
+</resources>
